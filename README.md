@@ -1,4 +1,4 @@
-![EtherSpec Banner](images/banner.jpg)
+!(images/banner.jpg)
 
 # EtherSpec Philosophy
 
