@@ -28,6 +28,34 @@ This work is licensed under the **Creative Commons Attribution-NonCommercial-Sha
 See the [LICENSE](LICENSE) file for the full text.
 
 
+# EtherSpec Philosophy
+
+Welcome to the **EtherSpec Philosophy** repository.  
+This project combines philosophy, modular technology, and fair distribution into one framework.
+
+---
+
+## Overview
+EtherSpec represents a living system that integrates:
+- **Philosophy** – principles of balance, circular flow, and golden ratio.  
+- **Technology** – modular hardware and software printers (food, drink, energy).  
+- **Society** – transparent validation, shared economy, and cultural support.  
+
+---
+
+## Files in this repo
+- `README.md` → project overview  
+- `LICENSE` → license details (CC-BY-NC-SA 4.0)  
+- `intro.md` → extended philosophical description  
+- `images/` → visual assets (banner, diagrams, etc.)  
+
+---
+
+## License
+This work is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**.  
+See the [LICENSE](LICENSE) file for the full text.
+
+
 
 # EtherSpec Philosophy
 
