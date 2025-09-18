@@ -1,3 +1,6 @@
+![EtherSpec Banner](msk.jpg)
+
+
 # EtherSpec Philosophy
 
 EtherSpec Philosophy is the conceptual and philosophical foundation of the EtherSpec ecosystem.  
